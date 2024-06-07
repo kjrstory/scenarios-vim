@@ -23,3 +23,9 @@ This will close Vim and we can view the newly created file:
 ```plain
 cat my-file
 ```{{exec}}
+
+
+```plain
+sudo add-apt-repository -y ppa:maveonair/helix-editor
+sudo apt install -y helix
+```{{exec}}
